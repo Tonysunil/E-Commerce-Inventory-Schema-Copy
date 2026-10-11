@@ -22,10 +22,7 @@ A MySQL database project for managing products, categories, suppliers, customers
 E-Commerce-Inventory-Schema/
 ├── README.md
 ├── ecommerce_inventory.sql
-└── screenshots/
-    ├── database_tables.png
-    └── query_results.png
-```
+
 
 The screenshots folder is optional. Add screenshots from MySQL Workbench or your SQL client if you want to show the database and query outputs.
 
