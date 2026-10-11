@@ -113,8 +113,10 @@ FROM products;
 ## Author
 
 **Sunil Behera**  
-B.Tech — Computer Science Engineering
 
----
 
-This project is intended for learning and demonstration. Sample customers and supplier email addresses use example domains and are not real contact details.
+Intern ID: CITS9335
+
+B.Tech – Computer Science Engineering
+
+SQL Internship Project
